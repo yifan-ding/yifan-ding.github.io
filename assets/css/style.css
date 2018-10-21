@@ -17,14 +17,14 @@
 
 
 ::-moz-selection {
-    background: #f2c2c9;
-    color: #a4003a;
+    background: #87CEFA;
+    color: #ffffff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #87CEFA;
+    color: #ffffff;
     text-shadow: none;
 }
 
@@ -87,9 +87,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #800;
+	color: #ffffff;
 	background-color: transparent;
-	border-bottom: 2px solid #800
+	border-bottom: 2px solid #ffffff
 }
 
 .navbar-default .navbar-nav > li > a {
