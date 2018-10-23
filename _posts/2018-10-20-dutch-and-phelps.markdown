@@ -17,6 +17,6 @@ externalLink: false
 
 ![Dutch-Phelps](../assets/images/Subscribers.png)
 
-Dutch & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here] (https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
+Dutch & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
 
 
