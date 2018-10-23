@@ -9,7 +9,7 @@ headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "description"
-category: project
+category: blog
 author: yifan-ding
 externalLink: false
 ---
