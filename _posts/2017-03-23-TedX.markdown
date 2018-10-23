@@ -1,5 +1,5 @@
 ---
-title: "TedX Talk"
+title: "TEDx Talk: Judge Not"
 layout: post
 date: 2017-03-23 17:23
 tag: Tedx
@@ -13,10 +13,6 @@ author: yifan-ding
 externalLink: false
 ---
 
-This was my tedX talk from Hong kong
-
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
-
-**Example**
+Judge Not
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPCdNpdZNKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
