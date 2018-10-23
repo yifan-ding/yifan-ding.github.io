@@ -1,22 +1,22 @@
 ---
-title: "Monkey Pod"
+title: "Duff and Phelps Valuation Project"
 layout: post
-date: 2018-09-13 07:10
+date: 2018-10-20 22:35
 tag: 
--SolidWorks
--Cura
--3D Printing 
--Machine Shop
+- excel
+- finance
 image: https://yifan-ding.github.io/assets/images/Duff_Phelps.png
-headerImage: false
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Design, prototype, manufacture and assembly of a phone attachment called the 'Monkey Pod', an attachable part to a phone which holds it in place in a flexible manner, an improvement on the octopus pod."
+description: "Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here] (https://yifan-ding.github.io/assets/Duff_Phelps.pdf)."
 category: project
 author: yifan-ding
 externalLink: false
 ---
 
-![Monkeypod](../assets/images/monkeypod.png)
+![Duff-Phelps](../assets/images/Subscribers.png)
 
-Design, prototype, manufacture and assembly of a phone attachment called the 'Monkey Pod', an attachable part to a phone which holds it in place in a flexible manner, an improvement on the octopus pod.
+Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
+
+
