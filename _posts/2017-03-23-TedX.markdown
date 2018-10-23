@@ -15,5 +15,12 @@ externalLink: false
 
 This was my tedX talk from Hong kong
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=FPCdNpdZNKk" frameborder="0" allowfullscreen></iframe>
+Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
 
+**Example**
+
+{% highlight html %}
+<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+{% endhighlight %}
+
+<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
