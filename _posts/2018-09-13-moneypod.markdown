@@ -17,6 +17,5 @@ externalLink: false
 
 ![Monkey](../assets/images/monkeypod.png)
 
-Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
-
+Design, prototype, manufacture and assembly of a phone attachment called the 'Monkey Pod', an attachable part to a phone which holds it in place in a flexible manner, an improvement on the octopus pod.
 
