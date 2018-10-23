@@ -1,35 +1,22 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Dutch and Phelps Valuation Project"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2018-10-20 22:35
+tag: 
+- excel
+- finance
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Dutch & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here] (https://yifan-ding.github.io/assets/Duff_Phelps.pdf)."
 category: project
-author: johndoe
+author: yifan-ding
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Dutch-Phelps](../assets/images/Subscribers.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Dutch & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here] (https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
 
----
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
