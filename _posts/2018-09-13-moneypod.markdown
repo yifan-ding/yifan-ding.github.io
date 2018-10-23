@@ -1,7 +1,7 @@
 ---
 title: "Monkey Pod"
 layout: post
-date: 2018-9-13 22:35
+date: 2018-09-13 22:35
 tag: 
 - solidworks
 - cura
@@ -15,7 +15,7 @@ author: yifan-ding
 externalLink: false
 ---
 
-![Duff-Phelps](../assets/images/Subscribers.png)
+![Monkey](../assets/images/monkeypod.png)
 
 Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
 
