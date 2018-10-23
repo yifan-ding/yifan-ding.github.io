@@ -22,7 +22,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Duff and Phelps Valuation Challenge</a></li>
-	<li><a href="https://github.com/">TedX Talk</a></li>
+	<li><a href="https://yifan-ding.github.io/duff-and-phelps/">Duff and Phelps Valuation Challenge</a></li>
+	<li><a href="https://yifan-ding.github.io/TedX/">TedX Talk</a></li>
 	<li><a href="https://github.com/">Machine Learning</a></li>
 </ul>
