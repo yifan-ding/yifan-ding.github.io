@@ -1,0 +1,20 @@
+---
+title: "Title"
+layout: post
+date: 2018-12-12 22:35
+tag: 
+- tags
+image: https://yifan-ding.github.io/assets/images/Duff_Phelps.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "description"
+category: project
+author: yifan-ding
+externalLink: false
+---
+
+![Name](../assets/images/address.png)
+
+text
+
