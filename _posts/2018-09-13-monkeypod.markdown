@@ -17,6 +17,6 @@ author: yifan-ding
 externalLink: false
 ---
 
-![Monkeypd](../assets/images/monkeypod.png)
+![Monkeypod](../assets/images/monkeypod.png)
 
 Design, prototype, manufacture and assembly of a phone attachment called the 'Monkey Pod', an attachable part to a phone which holds it in place in a flexible manner, an improvement on the octopus pod.
