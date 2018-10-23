@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "This was my Tedx talk in Hong Kong"
 category: project
-author: johndoe
+author: yifan-ding
 externalLink: false
 ---
 
