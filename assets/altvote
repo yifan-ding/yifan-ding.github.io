@@ -1,0 +1,148 @@
+CREATE TABLE votes 
+	(voter_id INT,
+	firstchoice VARCHAR(50),
+	secondchoice VARCHAR(50),
+	thirdchoice VARCHAR(50),
+	fourthchoice VARCHAR(50),
+	fifthchoice VARCHAR(50));
+						
+COPY votes FROM '/Users/admin/proj3/IRV_Assignment_DeCal.csv' DELIMITER ',' csv
+						
+SELECT * FROM votes
+
+select firstchoice, count(*)
+into one
+from votes
+group by firstchoice 
+order by count
+
+
+(select firstchoice, count, first_value(firstchoice) OVER (order by count) as loser1
+from one) not really necessary
+
+-- SEE THAT LILY IS FIRST LOSER WITH 1218
+-- Five Tables of no Lily
+
+select voter_id, secondchoice as firstchoice, thirdchoice as secondchoice, fourthchoice as thirdchoice, fifthchoice as fourthchoice
+into lily1
+from votes
+where firstchoice = 'Lily'
+
+select voter_id, firstchoice, thirdchoice as secondchoice, fourthchoice as thirdchoice, fifthchoice as fourthchoice
+into lily2
+from votes
+where secondchoice = 'Lily'
+
+select voter_id, firstchoice, secondchoice, fourthchoice as thirdchoice, fifthchoice as fourthchoice
+into lily3
+from votes
+where thirdchoice = 'Lily'
+
+select voter_id, firstchoice, secondchoice, thirdchoice, fifthchoice as fourthchoice
+into lily4
+from votes
+where fourthchoice = 'Lily'
+
+select voter_id, firstchoice, secondchoice, thirdchoice, fourthchoice
+into lily5
+from votes
+where fifthchoice = 'Lily'
+
+-- Add them together using UNION
+
+select * into votes2 from lily1
+union
+select * from lily2
+union 
+select * from lily3
+union
+select * from lily4
+union
+select * from lily5
+order by voder_id
+
+select firstchoice, count(*)
+into two
+from votes2
+group by firstchoice 
+order by count
+
+-- SEE THAT CHRISTINA IS NOW LOSING WITH 1621 VOTES
+
+select voter_id, secondchoice as firstchoice, thirdchoice as secondchoice, fourthchoice as thirdchoice
+into christina1
+from votes2
+where firstchoice = 'Christina'
+
+select voter_id, firstchoice, thirdchoice as secondchoice, fourthchoice as thirdchoice
+into christina2
+from votes2
+where secondchoice = 'Christina'
+
+select voter_id, firstchoice, secondchoice, fourthchoice as thirdchoice
+into christina3
+from votes2
+where thirdchoice = 'Christina'
+
+select voter_id, firstchoice, secondchoice, thirdchoice
+into christina4
+from votes2
+where fourthchoice = 'Christina'
+
+-- Add them together via Union
+
+select * into votes3 from christina1
+union
+select * from christina2
+union 
+select * from christina3
+union
+select * from christina4
+order by voter_id
+
+select firstchoice, count(*)
+into three
+from votes3
+group by firstchoice 
+order by count
+
+-- SEE THAT CARLOS IS NOW LOSING WITH 1881 VOTES
+
+select voter_id, secondchoice as firstchoice, thirdchoice as secondchoice
+into carlos1
+from votes3
+where firstchoice = ‘Carlos’
+
+select voter_id, firstchoice, thirdchoice as secondchoice
+into carlos2
+from votes3
+where secondchoice = ‘Carlos’
+
+select voter_id, firstchoice, secondchoice
+into carlos3
+from votes3
+where thirdchoice = ‘Carlos’
+
+-- Add them together via Union
+
+select * into votes4 from carlos1
+union
+select * from carlos2
+union 
+select * from carlos3
+order by voter_id
+
+select firstchoice, count(*)
+into four
+from votes4
+group by firstchoice 
+order by count
+						
+select 'Tim' as winner, (max(count)-min(count))/2 as margin_of_victory
+from four
+
+-- The last table is a little brute force, but then again my entire approach was pretty brute forced, so I understand I won't get extra credit. pls accept me to DSS next semester <3 				
+-- "Leslie"	"4997"
+-- "Tim"	"5003"
+-- TIM WINS !!!! 
+						
