@@ -14,10 +14,12 @@ layout: page
 	<li>HTML</li>
 	<li>CSS</li>
 	<li>Python</li>
+	<li>Java</li>
 	<li>R</li>
 	<li>SQL</li>
 	<li>Excel</li>
 	<li>Git</li>
+
 </ul>
 
 <h2>projects</h2>
