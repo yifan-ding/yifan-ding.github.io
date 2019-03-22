@@ -20,7 +20,7 @@ layout: page
 	<li>Git</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>projects</h2>
 
 <ul>
 
