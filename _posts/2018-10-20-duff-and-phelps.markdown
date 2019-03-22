@@ -2,21 +2,20 @@
 title: "Duff and Phelps Valuation Project"
 layout: post
 date: 2018-10-20 22:35
-tag: 
-- excel
-- finance
+tag:
+- Finance
 image: https://yifan-ding.github.io/assets/images/Duff_Phelps.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here] (https://yifan-ding.github.io/assets/Duff_Phelps.pdf)."
+description: "description"
 category: project
 author: yifan-ding
 externalLink: false
 ---
 
+Duff & Phelps, an investment banking company, posted a case competition which challenged student teams to valuate a hypothetical public broadcasting company. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
+
+For me, this was my first taste of financial work of any kind. Although I wasn't able to finish every component of the deliverable, on account of entering the competition alone, I was able to learn a huge amount about the quantitative and qualitative elements behind business analytics.
+
 ![Duff-Phelps](../assets/images/Subscribers.png)
-
-Duff & Phelps, an investment banking company, released a challenge project to valuate a fair price for a broadcasting company with a strong take-to-market strategy post-conception. Project specs can be found [here](https://yifan-ding.github.io/assets/Duff_Phelps.pdf).
-
-
