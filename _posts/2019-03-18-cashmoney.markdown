@@ -4,6 +4,7 @@ layout: post
 date: 2019-03-18 09:00
 tag:
 - Startup
+- Product Management 
 image:
 headerImage: false
 projects: true
