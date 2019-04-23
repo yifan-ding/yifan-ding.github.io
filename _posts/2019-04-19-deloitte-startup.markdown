@@ -1,7 +1,7 @@
 ---
 title: "Deloitte Start-Up Competition"
 layout: post
-date: 2019-02-19 12:00
+date: 2019-04-19 12:00
 tag:
 - Startup
 - Product Management
