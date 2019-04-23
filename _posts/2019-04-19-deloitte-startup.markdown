@@ -1,5 +1,5 @@
 ---
-title: "Deloitte Start-Up Competition"
+title: "Deloitte Start-Up Competition: SUITABLE"
 layout: post
 date: 2019-04-19 12:00
 tag:
