@@ -4,13 +4,13 @@ layout: post
 date: 2018-09-13 22:35
 tag:
 - Product Management
-image: https://yifan-ding.github.io/assets/images/Duff_Phelps.png
+image: https://ethanding17.github.io/assets/images/Duff_Phelps.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Some bullshit"
 category: project
-author: yifan-ding
+author: ethanding17
 externalLink: false
 ---
 

@@ -5,19 +5,19 @@ date: 2019-04-19 12:00
 tag:
 - Startup
 - Product Management
-image: https://yifan-ding.github.io/assets/images/deloittelogo.png
+image: https://ethanding17.github.io/assets/images/deloittelogo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Startup Project"
 category: blog
-author: yifan-ding
+author: ethanding17
 externalLink: false
 ---
 
 19 April
 
-[Pitch Deck](https://yifan-ding.github.io/assets/Deloitte-Powerpoint-FINAL.pptx)
+[Pitch Deck](https://ethanding17.github.io/assets/Deloitte-Powerpoint-FINAL.pptx)
 
 Continuous 72 hours from project launch to final pitch to judges; the Deloitte Startup competition has just concluded, and there's a fair amount to reflect on. The first thing to note is that mine and one other team easily did the most amount of work on our presentation, including the decking and presentation elements, yet neither of our teams placed on the top three.
 

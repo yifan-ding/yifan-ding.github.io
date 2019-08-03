@@ -4,13 +4,13 @@ layout: post
 date: 2019-04-25 07:00
 tag:
 - Competition
-image: https://yifan-ding.github.io/assets/images/google.jpg
+image: https://ethanding17.github.io/assets/images/google.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Google Tech Challenge"
 category: blog
-author: yifan-ding
+author: ethanding17
 externalLink: false
 ---
 

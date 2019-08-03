@@ -5,13 +5,13 @@ date: 2019-06-04 12:00
 tag:
 - Internship
 - Private Equity
-image: https://yifan-ding.github.io/assets/images/google.jpg
+image: https://ethanding17.github.io/assets/images/google.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Anticipation before the storm / general career reflections"
 category: blog
-author: yifan-ding
+author: ethanding17
 externalLink: false
 ---
 

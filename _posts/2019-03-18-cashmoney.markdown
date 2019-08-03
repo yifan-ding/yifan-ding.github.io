@@ -11,7 +11,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Startup trial 1"
 category: blog
-author: yifan-ding
+author: ethanding17
 externalLink: false
 ---
 
