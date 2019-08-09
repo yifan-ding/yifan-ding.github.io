@@ -4,31 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>What's up. My name is Yifan, or Ethan if you prefer, a sophomore studying Industrial Engineering and Operations Research (IEOR) and Data Science at the University of California, Berkeley. I'm trying to learn about leadership, entrepreneurship and product management on one hand, while exploring the world of finance in the other. </p>
+<h1>Hi, I'm an addict</h1>
 
-<p>If you're looking for someone who doesn't understand what "too much work" means, you've got the right guy.</p>
+<p>
+My whole life, my dial for everything has two settings: 11 and 0. I'm either working 20 hours a day on a polyphasic sleep schedule, eating one meal a day until the <i>objective</i> is achieved, or I'm watching 8 seasons x 20 episodes of a TV show I discovered the day before, within a week. I'm not a go to the gym for 30 minutes of jogging kind of guy, I'm a stay at home all day or do 200 pull-ups kind of guy.
+<br> <br>
+If you're looking for someone who doesn't understand what "too much work" means, you've got the right guy.
+</p>
 
-<h2>some stuff I know</h2>
+<h3>What do I want to be?</h3>
+
+<p>
+I want to be a <b>full-stack entrepreneur</b>. I want to be able to write the code the engineers are writing, generate the sales and customers the salespeople are generating, negotiate the deals that the executives are negotiating, etc. I want to be a one-size-fits-all plug for any hole that appears in the ship.
+</p>
+
+<h3>I think I have a decent understanding of</h3>
 
 <ul class="skill-list">
-	<li>HTML</li>
-	<li>CSS</li>
-	<li>Python</li>
-	<li>Java</li>
-	<li>R</li>
-	<li>SQL</li>
-	<li>Excel</li>
-	<li>Git</li>
-
-</ul>
-
-<h2>projects</h2>
-
-<ul>
-
-	<li><a href="https://ethan-ding.github.io/cashmoney/">CashMoneyApp</a></li>
-	<li><a href="https://ethan-ding.github.io/compassionlit/">Compassionlit Launch</a></li>
-	<li><a href="https://ethan-ding.github.io/monkeypod/">Monkey Pod Design Project</a></li>
-	<li><a href="https://ethan-ding.github.io/duff-and-phelps/">Duff and Phelps Valuation Challenge</a></li>
-	<li><a href="https://ethan-ding.github.io/TedX/">TedX Talk</a></li>
+	<li>Entrepreneurship</li>
+	<li>Python / Java / C++</li>
+	<li>React Native (Android Studio / Xcode)</li>
+	<li>Ruby on Rails</li>
+	<li>Microsoft Office (duh)</li>
+	<li>Mergers and Acquisitions (Discounted Cash Flow Models)</li>
 </ul>
