@@ -1,0 +1,23 @@
+---
+title: "TEDx Talk: Judge Not"
+layout: post
+date: 2017-01-11 17:23
+tag:
+- TEDx
+image: https://ethan-ding.github.io/assets/images/TedX.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This was my Tedx talk in Hong Kong"
+category: project
+author: ethan-ding
+externalLink: false
+---
+
+<h1> Judge Not </h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPCdNpdZNKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Debate's always been a part of my life: my parents were never the kind to just roll with my lofty claims or ideas as a child. From a very young age, my parents encouraged and drilled me to explore and analyze the "Why" behind every question I asked. As I developed my own personal values and ideologies, I found myself drifting towards determinism, an philosophical doctrine that, if taken consistently, I felt would promote the highest level of empathy for our fellow man.
+
+I was so excited to share my insights that I gave up the opportunity to organize TEDx in favour of having the opportunity to speak.

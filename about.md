@@ -26,9 +26,9 @@ layout: page
 
 <ul>
 
-	<li><a href="https://ethanding17.github.io/cashmoney/">CashMoneyApp</a></li>
-	<li><a href="https://ethanding17.github.io/compassionlit/">Compassionlit Launch</a></li>
-	<li><a href="https://ethanding17.github.io/monkeypod/">Monkey Pod Design Project</a></li>
-	<li><a href="https://ethanding17.github.io/duff-and-phelps/">Duff and Phelps Valuation Challenge</a></li>
-	<li><a href="https://ethanding17.github.io/TedX/">TedX Talk</a></li>
+	<li><a href="https://ethan-ding.github.io/cashmoney/">CashMoneyApp</a></li>
+	<li><a href="https://ethan-ding.github.io/compassionlit/">Compassionlit Launch</a></li>
+	<li><a href="https://ethan-ding.github.io/monkeypod/">Monkey Pod Design Project</a></li>
+	<li><a href="https://ethan-ding.github.io/duff-and-phelps/">Duff and Phelps Valuation Challenge</a></li>
+	<li><a href="https://ethan-ding.github.io/TedX/">TedX Talk</a></li>
 </ul>

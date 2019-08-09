@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/Resume.pdf
 
-url: https://ethanding17.github.io
+url: https://ethan-ding.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,11 +42,11 @@ instagram: azngineer
 linkedin: yifanethanding
 # youtube: myyoutube
 # spotify: myspotify
-github: ethanding17
+github: ethan-ding
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-quora: ethanding17-1
+quora: ethan-ding-1
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -102,6 +102,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
