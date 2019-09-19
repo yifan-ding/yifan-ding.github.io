@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 Resume: true
 Resume-external: true
-Resume-url: assets/sweResume.pdf
+Resume-url: https://ethan-ding.github.io/assets/sweResume.pdf.pdf
 
 url: https://ethan-ding.github.io
 # your url: http://USERNAME.github.io
