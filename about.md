@@ -18,6 +18,10 @@ If you're looking for someone who doesn't understand what "too much work" means,
 I want to be a <b>full-stack entrepreneur</b>. I want to be able to write the code the engineers are writing, generate the sales and customers the salespeople are generating, negotiate the deals that the executives are negotiating, etc. I want to be a one-size-fits-all plug for any hole that appears in the ship.
 </p>
 
+<a href="https://ethan-ding.github.io/assets/sweResume.pdf">Software Engineering Resume</a>
+<a href="https://ethan-ding.github.io/assets/peResume.pdf">Business Analyst Resume</a>
+
+
 <h3>I think I have a decent understanding of</h3>
 
 <ul class="skill-list">
