@@ -12,9 +12,9 @@ picture: assets/images/profile.png
 
 # If you want to include your sweResume, set to true
 # and specify source (external or local).
-Resume: true
-Resume-external: true
-Resume-url: /assets/sweResume.pdf
+resume: true
+resume-external: true
+resume-url: /assets/sweResume.pdf
 
 url: https://ethan-ding.github.io
 # your url: http://USERNAME.github.io
